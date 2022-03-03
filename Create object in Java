@@ -1,0 +1,13 @@
+import java.util.*;
+public class CreateObject 
+{    
+void show()    
+{    
+System.out.println("Welcome to RCCV");    
+}    
+public static void main(String[] args)   
+{    
+CreateObjectExample1 obj = new CreateObject();   
+obj.show();    
+}    
+}   
